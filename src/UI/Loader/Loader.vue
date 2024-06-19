@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
     <div class="loader"></div>
 </template>
 
@@ -46,4 +46,3 @@
     100% {background: conic-gradient(#77a4bd 360deg,#0000 360deg)}
 }
 </style>
- -->
